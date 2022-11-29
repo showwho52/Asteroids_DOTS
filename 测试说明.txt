@@ -1,0 +1,4 @@
+1 unity版本2020.3.33
+2 启动运行 main.unity
+3 打包需要用到BuildConfigurations  Android-Build 打包
+(备注dots打包，必须需用这种方式）
