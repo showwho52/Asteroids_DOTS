@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "name": "Unity Editor",
+            "type": "unity",
+            "path": "/F:/2D/Asteroids_DOTS/Library/EditorInstance.json",
+            "request": "launch"
+        },
+    ]
+}
