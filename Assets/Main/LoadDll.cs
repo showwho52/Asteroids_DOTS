@@ -16,6 +16,7 @@ public class LoadDll : MonoBehaviour
         "mscorlib.dll",
         "System.dll",
         "System.Core.dll",
+        "Unity.Entities.dll"
     };
 
     void Start()
